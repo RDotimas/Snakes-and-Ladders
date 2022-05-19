@@ -1,4 +1,4 @@
 Contributors:
 
-* Ralph Dotimas (RDotimas)
-* Erik Opinaldo (evoh2oh)
+Ralph Dotimas (RDotimas)
+Erik Opinaldo (evoh2oh)
