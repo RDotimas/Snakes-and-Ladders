@@ -1,0 +1,41 @@
+
+
+body {
+    background-size: cover;  
+    background-image: url("https://m.media-amazon.com/images/I/71nytXvfhPL._SL1468_.jpg");
+
+}
+
+
+
+.Title{
+    display:flex;
+    justify-content: space-evenly;
+    color: rgba(185,17,34,255);
+    font-size: 36px;
+}
+
+.snakeFont{
+    display:flex;
+    font-family: Sacramento;
+    color: rgba(93,108,67,255);
+
+}
+
+.ladderFont{
+    display:flex;
+    font-family: Montserrat Subrayada;
+    color: rgba(141,102,61,255);
+}
+
+
+.gameboard{
+    display:flex;
+    justify-content: center;
+
+}
+.footerdecor{
+    visibility: hidden;
+    display:flex;
+    justify-content: center;
+}
