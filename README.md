@@ -1,4 +1,4 @@
 Contributors:
 
-Ralph Dotimas
-Erik Opinaldo
+* Ralph Dotimas
+* Erik Opinaldo
